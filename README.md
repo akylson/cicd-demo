@@ -7,5 +7,6 @@ The application overview is as follows
 ```
 web <=> api <=> db
 ```
+1.0 ACCOUNT
 
 The folders `web` and `api` describe how to install and run each app.
